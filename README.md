@@ -57,4 +57,4 @@ We will use GitHub Discussions for general submissions and self-hosting chit-cha
 
 **[`^        back to top        ^`](#)**
 
-This list is licensed under the MIT license, however, please strongly consider crediting the original maintainer of this list should you re-publish it somewhere. Original maintainer: Billy Wilcosky - [wilcosky.com](https://wilcosky.com)
+This list is licensed under the [MIT license](https://github.com/zerosonesfun/easy-self-hosted/blob/main/LICENSE), however, please strongly consider crediting the original maintainer of this list should you re-publish it somewhere. Original maintainer: Billy Wilcosky - [wilcosky.com](https://wilcosky.com)
