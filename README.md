@@ -1,4 +1,4 @@
-# easy-self-hosted
+# Easy Self-hosted 🦄
 An 🕶 awesome-list of web software that the average person can easily self-host. There is a trend to create web software that either requires powerful servers and/or that many people cannot install themselves using cheap shared hosting. This potentially stagnates the open source community and World Wide Web in general because you have developers creating software for developers, or highly technical people only.
 
 Thus, to be listed here the software must be easy to install and host. In order to be easy to install and host, the software must:
