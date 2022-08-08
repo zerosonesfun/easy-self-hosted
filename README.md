@@ -11,14 +11,14 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 ## Table of contents
 
-- [Bookmarking & Link Aggregation](#bookmarking-&-link-aggregation)
-  - [Bookmarking & Link Aggregration - WordPress Plugins](#bookmarking-&-link-aggregation--wordpress-plugins)
+- [Bookmarking and Link Aggregation](#bookmarking-and-link-aggregation)
+  - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation--wordpress-plugins)
 - [Note-taking](#note-taking)
 - [License](#license)
 
 --------------------
 
-## Bookmarking & Link Aggregation
+## Bookmarking and Link Aggregation
 
 **[`^        back to top        ^`](#)**
 
@@ -26,7 +26,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 - [Placeholder](https://url.com) - Describe. ([Demo](https://demo.accesstomemory.org/), [Source Code](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
 
-## Bookmarking & Link Aggregation - WordPress Plugins
+## Bookmarking and Link Aggregation - WordPress Plugins
 
 **[`^        back to top        ^`](#)**
 
