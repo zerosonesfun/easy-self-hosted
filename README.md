@@ -11,6 +11,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 ## Table of contents
 
+- [Blogging](#blogging)
 - [Bookmarking and Link Aggregation](#bookmarking-and-link-aggregation)
   - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation---wordpress-plugins)
 - [Note-taking](#note-taking)
@@ -19,13 +20,21 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 --------------------
 
+## Blogging
+
+**[`^        back to top        ^`](#)**
+
+[Blogging](https://en.wikipedia.org/wiki/Blog) software gives one a discussion or informational website consisting of diary-style text entries (posts).
+
+- [WordPress](https://wordpress.org) - WordPress is software designed for everyone, emphasizing accessibility, performance, security, and ease of use. It is one of the most well-known blogging and CMS systems on planet Earth. Most shared hosting providers allow you to install WordPress with with just a few clicks. ([Demo](https://wordpress.org/showcase/)), ([Source Code](https://core.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
+
 ## Bookmarking and Link Aggregation
 
 **[`^        back to top        ^`](#)**
 
 [Bookmarking](https://en.wikipedia.org/wiki/Social_bookmarking) and link aggregation is used to save and share URLs (links) to places within the World Wide Web. This could be a private repository with favorite links, or a public multi-user service.
 
-- [Placeholder](https://url.com) - Describe. ([Demo](#)), ([Source Code](#)) `license` `coding language`
+- [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org/)), ([Source Code](https://github.com/shaarli/Shaarli)) `Zlib` `PHP`
 
 ### Bookmarking and Link Aggregation - WordPress Plugins
 
