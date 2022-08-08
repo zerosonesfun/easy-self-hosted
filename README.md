@@ -12,7 +12,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 ## Table of contents
 
 - [Bookmarking and Link Aggregation](#bookmarking-and-link-aggregation)
-  - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation--wordpress-plugins)
+  - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation---wordpress-plugins)
 - [Note-taking](#note-taking)
 - [License](#license)
 
