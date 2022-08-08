@@ -12,6 +12,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 ## Table of contents
 
 - [Bookmarking & Link Aggregation](#bookmarking-&-link-aggregation)
+  - [Bookmarking & Link Aggregration - WordPress Plugins](#bookmarking-&-link-aggregation---wordpress-plugins)
 - [Note-taking](#note-taking)
 - [License](#license)
 
@@ -23,4 +24,10 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 [Bookmarking](https://en.wikipedia.org/wiki/bookmarking) and [link aggregation](https://wiki) is used to save and share URLs (links) to places withing the World Wide Web. This could be a private repository with favorite links, or a public multi-user service.
 
-- [First one](https://url.com) - Describe. ([Demo](https://demo.accesstomemory.org/), [Source Code](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
+- [Placeholder](https://url.com) - Describe. ([Demo](https://demo.accesstomemory.org/), [Source Code](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
+
+## Bookmarking & Link Aggregation - WordPress Plugins
+
+**[`^        back to top        ^`](#)**
+
+- [Social Link Optimizer](https://github.com/IIP-Design/social-link-optimizer) - A WordPress plugin that adds the ability to aggregate multiple content links onto a single page. ([Demo](https://iip-design.github.io/social-link-optimizer), [Source Code]([https://github.com/artefactual/atom](https://github.com/IIP-Design/social-link-optimizer))) `GPL-2.0 license` `PHP`
