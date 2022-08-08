@@ -22,7 +22,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 **[`^        back to top        ^`](#)**
 
-[Bookmarking](https://en.wikipedia.org/wiki/bookmarking) and [link aggregation](https://wiki) is used to save and share URLs (links) to places withing the World Wide Web. This could be a private repository with favorite links, or a public multi-user service.
+[Bookmarking](https://en.wikipedia.org/wiki/Social_bookmarking) and link aggregation is used to save and share URLs (links) to places within the World Wide Web. This could be a private repository with favorite links, or a public multi-user service.
 
 - [Placeholder](https://url.com) - Describe. ([Demo](#)), ([Source Code](#)) `license` `coding language`
 
@@ -36,6 +36,6 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 **[`^        back to top        ^`](#)**
 
-[Note-taking](https://en.wikipedia.org/wiki/bookmarking) description.
+[Note-taking](https://en.wikipedia.org/wiki/Note-taking) is the practice of recording information from different sources and platforms. By taking notes, the writer records the essence of the information, freeing their mind from having to recall everything.
 
 - [TiddlyWiki](https://tiddlywiki.com) - A unique, single-file, non-linear notebook for capturing, organising and sharing complex information. Use it to keep your to-do list, to plan an essay or novel, or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website. ([Demo](https://tiddlywiki.com)), ([Source Code](https://github.com/Jermolene/TiddlyWiki5/blob/master/license)) `BSD-3-Clause` `JavaScript`
