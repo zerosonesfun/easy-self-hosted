@@ -24,13 +24,13 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 [Bookmarking](https://en.wikipedia.org/wiki/bookmarking) and [link aggregation](https://wiki) is used to save and share URLs (links) to places withing the World Wide Web. This could be a private repository with favorite links, or a public multi-user service.
 
-- [Placeholder](https://url.com) - Describe. ([Demo](#), [Source Code](#) `license` `coding language`
+- [Placeholder](https://url.com) - Describe. ([Demo](#)), ([Source Code](#)) `license` `coding language`
 
 ## Bookmarking and Link Aggregation - WordPress Plugins
 
 **[`^        back to top        ^`](#)**
 
-- [Social Link Optimizer](https://github.com/IIP-Design/social-link-optimizer) - A WordPress plugin that adds the ability to aggregate multiple content links onto a single page. ([Demo](https://iip-design.github.io/social-link-optimizer), [Source Code](https://github.com/IIP-Design/social-link-optimizer) `GPL-2.0 license` `PHP`
+- [Social Link Optimizer](https://github.com/IIP-Design/social-link-optimizer) - A WordPress plugin that adds the ability to aggregate multiple content links onto a single page. ([Demo](https://iip-design.github.io/social-link-optimizer)), ([Source Code](https://github.com/IIP-Design/social-link-optimizer) )`GPL-2.0 license` `PHP`
 
 ## Note-taking
 
@@ -38,4 +38,4 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 [Note-taking](https://en.wikipedia.org/wiki/bookmarking) description.
 
-- [TiddlyWiki](https://tiddlywiki.com) - A unique, single-file, non-linear notebook for capturing, organising and sharing complex information. Use it to keep your to-do list, to plan an essay or novel, or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website. ([Demo](https://tiddlywiki.com), [Source Code](https://github.com/Jermolene/TiddlyWiki5/blob/master/license) `BSD-3-Clause license` `JavaScript`
+- [TiddlyWiki](https://tiddlywiki.com) - A unique, single-file, non-linear notebook for capturing, organising and sharing complex information. Use it to keep your to-do list, to plan an essay or novel, or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website. ([Demo](https://tiddlywiki.com)), ([Source Code](https://github.com/Jermolene/TiddlyWiki5/blob/master/license)) `BSD-3-Clause license` `JavaScript`
