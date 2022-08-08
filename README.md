@@ -46,7 +46,9 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 **[`^        back to top        ^`](#)**
 
 Help build this awesome list! To contribute, simply [create a new discussion here](https://github.com/zerosonesfun/easy-self-hosted/discussions/categories/contribute). Include your submission in this format:
-- [Name of software](URL) - Description. ([Demo](URL)), ([Source Code](URL)) `license` `main coding language`
-- Or, [see other options](https://github.com/zerosonesfun/easy-self-hosted/discussions/2).
+~~~
+[Name of software](URL) - Description. ([Demo](URL)), ([Source Code](URL)) `license` `main coding language`
+~~~
+Or, [see other options](https://github.com/zerosonesfun/easy-self-hosted/discussions/2).
 
 We will use GitHub Discussions for general submissions and self-hosting chit-chat. The issues tab will only be used for actual issues. In other words, if a link is invalid, or there's a typo, feel free to submit a new issue.
