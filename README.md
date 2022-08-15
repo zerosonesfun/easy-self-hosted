@@ -49,6 +49,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 [CMS](https://en.wikipedia.org/wiki/Content_management_system) software makes it easier to create and maintain websites.
 
+- [Pico](https://picocms.org) - Pico is a stupidly simple, blazing fast, flat file CMS. ([Demo](https://picocms.org)), ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`
 - [WonderCMS](https://www.wondercms.com) - WonderCMS is a small and simple flat file CMS. Aimed to be extremely light and easy to install.
 Perfect for simple websites, landing pages or blogs. ([Demo](https://www.wondercms.com/demo)), ([Source Code](https://github.com/robiso/wondercms)) `MIT` `PHP`
 - [WordPress](https://wordpress.org) - WordPress is software designed for everyone, emphasizing accessibility, performance, security, and ease of use. It is one of the most well-known blogging and CMS systems on planet Earth. Most shared hosting providers allow you to install WordPress with with just a few clicks. ([Demo](https://wordpress.org/showcase/)), ([Source Code](https://core.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
