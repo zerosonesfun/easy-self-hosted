@@ -47,7 +47,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 **[`^        back to top        ^`](#)**
 
-[CMS](https://en.wikipedia.org/wiki/cms) software makes it easier to create and maintain websites.
+[CMS](https://en.wikipedia.org/wiki/Content_management_system) software makes it easier to create and maintain websites.
 
 - [WonderCMS](https://www.wondercms.com) - WonderCMS is a small and simple flat file CMS. Aimed to be extremely light and easy to install.
 Perfect for simple websites, landing pages or blogs. ([Demo](https://wordpress.org/showcase/)), ([Source Code](([Demo](https://www.wondercms.com/demo)), ([Source Code](https://core.trac.wordpress.org/browser/trunk)) `MIT` `PHP`
