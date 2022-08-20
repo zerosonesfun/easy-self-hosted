@@ -15,6 +15,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 - [Bookmarking and Link Aggregation](#bookmarking-and-link-aggregation)
   - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation---wordpress-plugins)
 - [CMS](#cms)
+- [Forums](#forums)
 - [Note-taking](#note-taking)
 - [Contributing](#contributing)
 - [License](#license)
@@ -53,6 +54,15 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 - [WonderCMS](https://www.wondercms.com) - WonderCMS is a small and simple flat file CMS. Aimed to be extremely light and easy to install.
 Perfect for simple websites, landing pages or blogs. ([Demo](https://www.wondercms.com/demo)), ([Source Code](https://github.com/robiso/wondercms)) `MIT` `PHP`
 - [WordPress](https://wordpress.org) - WordPress is software designed for everyone, emphasizing accessibility, performance, security, and ease of use. It is one of the most well-known blogging and CMS systems on planet Earth. Most shared hosting providers allow you to install WordPress with with just a few clicks. ([Demo](https://wordpress.org/showcase/)), ([Source Code](https://core.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
+
+## Forums
+
+**[`^        back to top        ^`](#)**
+
+[Forums](https://en.wikipedia.org/wiki/Internet_forum) are online discussion sites where people can hold conversations in the form of posted messages.
+
+- [My Little Forum](https://mylittleforum.net/) - A simple PHP and MySQL based internet forum that displays the messages in classical threaded view (tree structure). ([Demo](https://mylittleforum.net/forum/)), ([Source Code](https://github.com/ilosuna/mylittleforum)) `GPL-3.0` `PHP`
+- [Saito](http://saito.siezi.com/) - A modern threaded (tree structure) forum. ([Demo](https://saito-forum.de/forum/)), ([Source Code](https://github.com/Schlaefer/Saito)) `License unknown` `PHP`
 
 ## Note-taking
 
