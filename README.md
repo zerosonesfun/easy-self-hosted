@@ -51,7 +51,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 
 [Comment Systems](#) are usually essential for blogs and websites. Many blogging, CMS, and other tools come with built in comment systems. But, sometimes they don't. Comment systems allow your visitors to give you feedback and/or express their opinion about what you have written which often leads to more returning visitors.
 
-- [Hashover](https://docs.barkdull.org/hashover-v2) - Although a little more involved than "1-click," this is one of the (maybe the only) maintained and fairly easy to set up self hosted commenting system. You adjust some settings in a settings file and add a couple lines of code to the appropriate webpage or theme file. ([Demo](https://comments.barkdull.org/test-page.html)), ([Source Code](https://github.com/jacobwb/hashover-next)) `AGPL-3.0 license` `PHP`
+- [Hashover](https://docs.barkdull.org/hashover-v2) - Although a little more involved than "1-click," this is one of the (maybe the only) maintained and fairly easy to set up self hosted commenting system. You adjust some settings in a settings file and add a couple lines of code to the appropriate webpage or theme file. ([Demo](https://comments.barkdull.org/test-page.html)), ([Source Code](https://github.com/jacobwb/hashover-next)) `AGPL-3.0` `PHP`
 
 ## CMS
 
