@@ -14,6 +14,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 - [Blogging](#blogging)
 - [Bookmarking and Link Aggregation](#bookmarking-and-link-aggregation)
   - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation---wordpress-plugins)
+- [Commenting](#commenting)
 - [CMS](#cms)
 - [Forums](#forums)
 - [Note-taking](#note-taking)
@@ -43,6 +44,14 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 **[`^        back to top        ^`](#)**
 
 - [Social Link Optimizer](https://github.com/IIP-Design/social-link-optimizer) - A WordPress plugin that adds the ability to aggregate multiple content links onto a single page. ([Demo](https://iip-design.github.io/social-link-optimizer)), ([Source Code](https://github.com/IIP-Design/social-link-optimizer)) `GPL-2.0` `PHP`
+
+## Comment Systems
+
+**[`^        back to top        ^`](#)**
+
+[Comment Systems](#) are usually essential for blogs and websites. Many blogging, CMS, and other tools come with built in comment systems. But, sometimes they don't. Comment systems allow your visitors to give you feedback and/or express their opinion about what you have written which often leads to more returning visitos.
+
+- [Hashover](https://docs.barkdull.org/hashover-v2) - Although a little more involved that "1-click," this is one of the (maybe the only) maintained and fairly easy to set up self hosted commenting system. You adjust some settings in a settings file and add a couple lines of code to the appropriate webpage or theme file. ([Demo](https://comments.barkdull.org/test-page.html)), ([Source Code](https://github.com/jacobwb/hashover-next)) `AGPL-3.0 license` `PHP`
 
 ## CMS
 
