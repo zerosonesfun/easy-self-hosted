@@ -14,7 +14,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 - [Blogging](#blogging)
 - [Bookmarking and Link Aggregation](#bookmarking-and-link-aggregation)
   - [Bookmarking and Link Aggregration - WordPress Plugins](#bookmarking-and-link-aggregation---wordpress-plugins)
-- [Commenting](#commenting)
+- [Comment Systems](#comment-systems)
 - [CMS](#cms)
 - [Forums](#forums)
 - [Note-taking](#note-taking)
