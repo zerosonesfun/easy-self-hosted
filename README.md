@@ -62,6 +62,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 - [Pico](https://picocms.org) - Pico is a stupidly simple, blazing fast, flat file CMS. ([Demo](https://picocms.org)), ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`
 - [WonderCMS](https://www.wondercms.com) - WonderCMS is a small and simple flat file CMS. Aimed to be extremely light and easy to install.
 Perfect for simple websites, landing pages or blogs. ([Demo](https://www.wondercms.com/demo)), ([Source Code](https://github.com/robiso/wondercms)) `MIT` `PHP`
+- [Winter](https://wintercms.com) - Winter CMS is a free, open-source content management system based on the Laravel PHP framework. They offer an easy web installer to get Winter up and running quickly. ([Source Code](https://github.com/wintercms/winter)) `MIT` `PHP`
 - [WordPress](https://wordpress.org) - WordPress is software designed for everyone, emphasizing accessibility, performance, security, and ease of use. It is one of the most well-known blogging and CMS systems on planet Earth. Most shared hosting providers allow you to install WordPress with with just a few clicks. ([Demo](https://wordpress.org/showcase/)), ([Source Code](https://core.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
 
 ## Forums
