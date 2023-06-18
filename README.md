@@ -18,6 +18,7 @@ If these two criteria are met most anyone can purchase cheap (sometimes even fre
 - [CMS](#cms)
 - [Forums](#forums)
 - [Note-taking](#note-taking)
+- [Wiki](#wiki)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -81,6 +82,14 @@ Perfect for simple websites, landing pages or blogs. ([Demo](https://www.wonderc
 [Note-taking](https://en.wikipedia.org/wiki/Note-taking) is the practice of recording information from different sources and platforms. By taking notes, the writer records the essence of the information, freeing their mind from having to recall everything.
 
 - [TiddlyWiki](https://tiddlywiki.com) - A unique, single-file, non-linear notebook for capturing, organizing and sharing complex information. Use it to keep your to-do list, to plan an essay or novel, or to organise your wedding. Record every thought that crosses your brain, or build a flexible and responsive website. ([Demo](https://tiddlywiki.com)), ([Source Code](https://github.com/Jermolene/TiddlyWiki5)) `BSD-3-Clause` `JavaScript`
+
+## Wiki
+
+**[`^        back to top        ^`](#)**
+
+[Wiki](https://en.wikipedia.org/wiki/Wiki) software gives one the ability to house documentation or create an website like wikipedia.
+
+- [WikiDocs](https://github.com/Zavy86/WikiDocs) - A good looking, modern, flat file wiki. ([Demo](http://demo.wikidocs.it/)), ([Source Code](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP`
 
 ## Contributing
 
