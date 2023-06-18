@@ -87,7 +87,7 @@ Perfect for simple websites, landing pages or blogs. ([Demo](https://www.wonderc
 
 **[`^        back to top        ^`](#)**
 
-[Wiki](https://en.wikipedia.org/wiki/Wiki) software gives one the ability to house documentation or create an website like wikipedia.
+[Wiki](https://en.wikipedia.org/wiki/Wiki) software gives one the ability to house documentation or create a website like wikipedia.
 
 - [WikiDocs](https://github.com/Zavy86/WikiDocs) - A good looking, modern, flat file wiki. ([Demo](http://demo.wikidocs.it/)), ([Source Code](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP`
 
